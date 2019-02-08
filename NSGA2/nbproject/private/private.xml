@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/MyIndex.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/Test.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/ExecuteTraining.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/ObjectiveFunction.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Service.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Configuration.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/output/WriteToExcel.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/IObjectiveFunction.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/MyIndexReader.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Recall.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Query.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/MyIndexSearcher.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Algorithm.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Performance.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Synthesis.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/analyzer/MyStandardAnalyzer.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/Main.java</file>
+            <file>file:/C:/Users/Marziyeh/Documents/NetBeansProjects/NSGA2/src/mb/runGeneticAlgorithm/Percision.java</file>
+        </group>
+    </open-files>
+</project-private>
